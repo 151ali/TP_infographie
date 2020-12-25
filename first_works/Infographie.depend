@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1604101022 source:/home/lina/Desktop/Infographie/main.cpp
+	<iostream>
+	"draw.h"
+
+1604099111 /home/lina/Desktop/Infographie/draw.h
+	<iostream>
+	<FreeImage.h>
+	<math.h>
+
+1604101026 source:/home/lina/Desktop/Infographie/draw.cpp
+	"draw.h"
+
+1605136429 source:/home/lina/eTUDES/Infographie/main.cpp
+	<iostream>
+	"draw.h"
+
+1605127642 /home/lina/eTUDES/Infographie/draw.h
+	<iostream>
+	<FreeImage.h>
+	<math.h>
+
+1605127522 source:/home/lina/eTUDES/Infographie/other.cpp
+	"draw.h"
+
+1605135218 source:/home/lina/eTUDES/Infographie/draw.cpp
+	"draw.h"
+
+1607645433 source:/home/lina/eTUDES/TP_infographie/Infographie/draw.cpp
+	"draw.h"
+	<cmath>
+	"point.h"
+
+1608399394 /home/lina/eTUDES/TP_infographie/Infographie/draw.h
+	<iostream>
+	<FreeImage.h>
+	<math.h>
+	"point.h"
+	<cmath>
+
+1608399255 source:/home/lina/eTUDES/TP_infographie/Infographie/main.cpp
+	<iostream>
+	"draw.h"
+
+1608371512 source:/home/lina/eTUDES/TP_infographie/Infographie/other.cpp
+	"draw.h"
+	<cmath>
+	"point.h"
+
+1608399276 /home/lina/eTUDES/TP_infographie/Infographie/point.h
+	<iostream>
+	"transformation.h"
+
+1607384558 source:/home/lina/eTUDES/TP_infographie/Infographie/point.cpp
+	"point.h"
+
+1608368596 /home/lina/eTUDES/TP_infographie/Infographie/transformation.h
+	<iostream>
+	"vecteur.h"
+	"point.h"
+
+1608369022 /home/lina/eTUDES/TP_infographie/Infographie/vecteur.h
+	<iostream>
+	<cmath>
+	"point.h"
+
+1607452760 source:/home/lina/eTUDES/TP_infographie/Infographie/shapes.cpp
+	<cmath>
+	"draw.h"
+
